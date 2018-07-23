@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+	<file source-language="de" datatype="plaintext" original="messages" date="" product-name="local lang module">
+		<header/>
+		<body>
+			<trans-unit id="Ko">
+				<source>kB</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="Mo">
+				<source>MB</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.errorType">
+				<source>{file} hat eine ungültige Erweiterung. Gültig ist/sind: {extensions}.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.sizeError">
+				<source>{file} ist zu groß, maximale Dateigröße ist {sizeLimit}.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.minSizeError">
+				<source>{file} ist zu klein, minimale Dateigröße ist {minSizeLimit}.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.emptyError">
+				<source>{file} ist leer, bitte wählen Sie Dateien erneut ohne dieser aus.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.noFilesError">
+				<source>Keine Dateien hochzuladen.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.tooManyItemsError">
+				<source>Zu viele Dateien ({netItems}) würden hochgeladen. Höchste Anzahl ist {itemLimit}.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.maxHeightImageError">
+				<source>Bild ist zu hoch.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.maxWidthImageError">
+				<source>Bild ist zu breit.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.minHeightImageError">
+				<source>Bild ist nicht hoch genug.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.minWidthImageError">
+				<source>Bild ist nicht breit genug.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.retryFailTooManyItems">
+				<source>Wiederholen fehlgeschlagen - maximale Datei Anzahl erreicht.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.onLeave">
+				<source>Dateien werden gerade hochgeladen. Wenn Sie die Seite jetzt verlassen, wird das Hochladen abgebrochen.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.message.unsupportedBrowserIos8Safari">
+				<source>Nicht behebbarer Fehler - dieser Browser erlaubt kein Hochladen von Dateien in irgendeiner Art aufgrund von schwerwiegenden Fehlern in iOS8 Safari.  Bitte benutzen Sio iOS8 Chrome bis Apple die Fehler behoiben hat.</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.cancel">
+				<source>Abbrechen</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.retry">
+				<source>Wiederholen</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.delete">
+				<source>Löschen</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.pause">
+				<source>Pause</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.continue">
+				<source>Fortsetzen</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.view">
+				<source>Ansehen</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.processingDropFiles">
+				<source>Verarbeiten der hineingezogenen Dateien...</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.dropFilesHere">
+				<source>Dateien hier herein ziehen, um sie hochzuladen ...</source>
+			</trans-unit>
+			<trans-unit id="fineUploader.uploadFile">
+				<source>Datei hochladen</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
